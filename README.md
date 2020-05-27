@@ -3,6 +3,12 @@
 The Game Can be found on <a href = "https://play.google.com/store/apps/details?id=com.Straightuptech.Hexzer&hl=en_IN"> PlayStore</a>
 <br>
 Wanna play for fun [play it now!](https://straightuptech.github.io/Hexzer3.0/)
+
+## Show some :heart: and star the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/straight-up-technologies/Hexzer_Unity.svg?style=social&label=Star)](https://github.com/straight-up-technologies/Hexzer_Unity) [![GitHub forks](https://img.shields.io/github/forks/straight-up-technologies/Hexzer_Unity.svg?style=social&label=Fork)](https://github.com/straight-up-technologies/Hexzer_Unity/fork) [![GitHub watchers](https://img.shields.io/github/watchers/straight-up-technologies/Hexzer_Unity.svg?style=social&label=Watch)](https://github.com/straight-up-technologies/Hexzer_Unity) [![GitHub followers](https://img.shields.io/github/followers/straight-up-technologies.svg?style=social&label=Follow)](https://github.com/straight-up-technologies/Hexzer_Unity)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/Straightuptech7.svg?style=social)](https://twitter.com/Straightuptech7)
+
 ### Contributors
 
 [Tushar Sehgal](https://github.com/straightuptech/)  is maintaining this repository.
