@@ -1,0 +1,2 @@
+G:\Unity Projects\Hexzer 3.0_PC\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\Unity Projects\Hexzer 3.0_PC\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
