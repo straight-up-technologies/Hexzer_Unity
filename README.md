@@ -11,7 +11,7 @@ Wanna play for fun [play it now!](https://straightuptech.github.io/Hexzer3.0/)
 
 ### Contributors
 
-[Tushar Sehgal](https://github.com/straightuptech/)  is maintaining this repository.
+[Straightuptechl](https://github.com/straightuptech/)  is maintaining this repository.
 
 
 ### Screenshot
